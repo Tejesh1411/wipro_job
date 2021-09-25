@@ -1,0 +1,3 @@
+ 
+Hi its me deleted file by git clean -f it will delete all files in working area
+
